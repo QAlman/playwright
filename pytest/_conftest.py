@@ -16,7 +16,7 @@ import pytest
 
 from playwright.async_api import async_playwright
 
-from .utils import utils as utils_object
+from utils import objects as utils_object
 
 
 @pytest.fixture

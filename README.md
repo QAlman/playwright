@@ -1,4 +1,4 @@
-# playwright_POM_Python
+# playwright_Python
 
 ## Ensure that you:
 1. Fork the repo.
